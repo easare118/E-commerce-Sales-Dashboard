@@ -26,4 +26,7 @@ Interactive Power BI dashboard for e-commerce sales analysis.
 - Identified best-selling  products.
 - Revealed Customer purchasing patterns.
 - Highlighted sales trends across different countries.
-- Showed the preferred payment methods. 
+- Showed the preferred payment methods.
+
+  ## Dashboard Preview
+  ![Dashboard](Screenshot%20(1).png)
